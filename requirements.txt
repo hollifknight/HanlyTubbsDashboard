@@ -1,0 +1,15 @@
+ requests
+ pandas
+ numpy
+ geopandas
+ matplotlib
+ shapely
+ contextily
+ xarray
+ netCDF4
+ seaborn
+ ipywidgets
+ voila
+ rtree
+ pygeos
+ fiona
