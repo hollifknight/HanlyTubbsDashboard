@@ -1,9 +1,7 @@
 # HanlyTubbsVoilaHeroku
 
 Link to Binder Notebook (for viewing results):
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollifknight/HanlyTubbsVoilaHeroku/master?labpath=Scripts%2FHanlyTubbsVisuals.ipynb)
-
-For sharing: https://mybinder.org/v2/gh/hollifknight/HanlyTubbsVoilaHeroku/master?labpath=Scripts%2FHanlyTubbsVisuals.ipynb
+https://hub.gke2.mybinder.org/user/hollifknight-hanlytubbsdashboard-z6lxyavm/doc/tree/Scripts/HanlyTubbsVis.ipynb
 
 
 IMPORTANT NOTE:
