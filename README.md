@@ -1,4 +1,4 @@
-# HanlyTubbsVoilaHeroku
+# Hanly / Tubbs Fires (Visualizations)
 
 Link to Binder Notebook (for viewing results):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollifknight/HanlyTubbsDashboard/master?labpath=Scripts%2FHanlyTubbsVis.ipynb)
