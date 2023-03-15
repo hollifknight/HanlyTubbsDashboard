@@ -6,8 +6,8 @@ Datasets of interest:
 
 1. Fire Perimeters: https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-1950/explore?location=37.553315%2C-118.992700%2C6.57
 2. Housing:
-  i. Zillow API (defunct since Zillow became a broker)
-  ii. Sonoma County Assessor
+- Zillow API (defunct since Zillow became a broker)
+- Sonoma County Assessor
 3. Topological / Weather:
   i. NASA https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_D_2.0/summary
 4. Land Use:
