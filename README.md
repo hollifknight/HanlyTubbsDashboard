@@ -1,10 +1,14 @@
 # Hanly / Tubbs Fires (Visualizations)
 
-Link to Binder Notebook (for viewing results):
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hollifknight/HanlyTubbsDashboard/master?labpath=Scripts%2FHanlyTubbsVis.ipynb)
+Analysis of the two Northern California Fires
 
-https://hub.gke2.mybinder.org/user/hollifknight-hanlytubbsdashboard-4dvhel39/doc/tree/Scripts/HanlyTubbsVis.ipynb
+Datasets of interest:
 
-
-IMPORTANT NOTE:
-Typically, all cells must be run before interactive widgets will render. Click Run --> Run All Cells. This may take a couple minutes.
+Fire Perimeters: https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-1950/explore?location=37.553315%2C-118.992700%2C6.57
+Housing:
+Zillow API (defunct since Zillow became a broker)
+Topological / Weather:
+NASA https://disc.gsfc.nasa.gov/datasets/GLDAS_CLSM025_D_2.0/summary
+Land Use:
+Exemptions to timber operations plan preparations & regulations (PRC § 4581; accepted by the CA Dept. of Forestry & Fire Protection): https://gis.data.ca.gov/datasets/CALFIRE-Forestry::cal-fire-exemption-notices-right-of-way-ta83/explore?location=38.386762%2C-122.521111%2C11.04 only 15 approved, small parcels
+Timber Harvesting Plans: https://gis.data.ca.gov/datasets/CALFIRE-Forestry::cal-fire-timber-harvesting-plans-historical-ta83/explore?location=38.527776%2C-122.669379%2C13.15
